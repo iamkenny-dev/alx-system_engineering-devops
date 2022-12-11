@@ -1,1 +1,1 @@
-0x03. Shell, init files, variables and expansions
+Projects on Shell variables and shell expansions
