@@ -49,3 +49,4 @@ backend zonehub-backend
         balance roundrobin
         server 60611-web-01 52.205.77.83:80 check
 		server 60611-web-02 18.209.180.12:80 check
+
